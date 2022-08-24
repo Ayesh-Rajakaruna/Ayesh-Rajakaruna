@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ayesh</h1>
 <h3 align="center">I am a 4th year undergraduate student of university of Moratuwa</h3>
-<img align="right" alt = "Coding" width="100%" src="https://www.polyu.edu.hk/its/-/media/department/its/events/2022/2/20220228-event-deep-learning-with-python_afternoon---copy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayesh-rajakaruna&label=Profile%20views&color=0e75b6&style=flat" alt="ayesh-rajakaruna" /> </p>
+
+<img align="right" alt = "Coding" width="100%" src="https://www.polyu.edu.hk/its/-/media/department/its/events/2022/2/20220228-event-deep-learning-with-python_afternoon---copy.gif">
 
 - 🌱 I’m currently learning **Spring Boot, React**
 
