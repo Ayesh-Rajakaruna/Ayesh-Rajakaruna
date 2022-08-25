@@ -2,7 +2,7 @@
 <h3 align="center">I am a 4th year undergraduate student of university of Moratuwa</h3>
 <p align="left"> <img src="https://cdn-images-1.medium.com/max/2600/0*PuscwCsUr09xZ0SJ.gif" /> </p>
 
-<img align="right" alt = "Coding" width="100%" hight="50" src="https://miro.medium.com/proxy/0*Mlm6PXQe4KCc_tku">
+<img align="right" alt = "Coding" width="100%" hight="50" src="https://cdn-images-1.medium.com/max/2600/0*PuscwCsUr09xZ0SJ.gif">
 
 - 🌱 I’m currently learning **Spring Boot, React**
 
