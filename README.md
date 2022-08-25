@@ -2,7 +2,7 @@
 <h3 align="center">I am a 4th year undergraduate student of university of Moratuwa</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayesh-rajakaruna&label=Profile%20views&color=0e75b6&style=flat" alt="ayesh-rajakaruna" /> </p>
 
-<img align="right" alt = "Coding" width="100%" src="https://miro.medium.com/proxy/0*Mlm6PXQe4KCc_tku">
+<img align="right" alt = "Coding" width="100%" hight="50" src="https://miro.medium.com/proxy/0*Mlm6PXQe4KCc_tku">
 
 - 🌱 I’m currently learning **Spring Boot, React**
 
