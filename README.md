@@ -23,29 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayesh-rajakaruna&show_icons=true&locale=en" alt="ayesh-rajakaruna" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayesh-rajakaruna&" alt="ayesh-rajakaruna" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+My name is Ayesh and I am currently studying electronic and telecommunication engineering at the University of Moratuwa. I have a strong interest in IoT, machine learning, and software development. On my GitHub profile, you can find some of the projects I have worked on in these areas. I am always looking to learn and expand my skills, so feel free to reach out or connect with me on LinkedIn. Looking forward to collaborating and learning from the open source community!
